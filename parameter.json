@@ -1,0 +1,41 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "enter name of storage account": {
+        "value": "ourvm11sa"
+      },
+
+      "enter name of public ip": {
+        "value": "ourvm11pip"
+      },
+
+      "enter name of nsg": {
+        "value": "ourvm11ndg"
+      },
+
+      "enter name of vn": {
+        "value": "ourvm11vn"
+      },
+
+      "enter name of subnet": {
+        "value": "ourvm11sub"
+      },
+
+      "enter name of nic": {
+        "value": "ourvm11nic"
+      },
+
+      "enter name of vm": {
+        "value": "ourvm11vm"
+      },
+
+      "enter name of computer": {
+        "value": "ourvm11com"
+      },
+      
+      "enter name of osDisk": {
+        "value": "ourvm11osdisk"
+      }
+    }
+  }
